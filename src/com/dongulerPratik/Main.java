@@ -1,4 +1,4 @@
-package com.TamBolunenlerinOrtalamasi;
+package com.dongulerPratik;
 
 import java.util.Scanner;
 

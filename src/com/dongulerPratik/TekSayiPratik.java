@@ -1,4 +1,4 @@
-package com.TekSayiToplamPratik;
+package com.dongulerPratik;
 
 import java.util.Scanner;
 
