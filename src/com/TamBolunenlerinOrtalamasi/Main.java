@@ -1,4 +1,4 @@
-package com.company;
+package com.TamBolunenlerinOrtalamasi;
 
 import java.util.Scanner;
 
